@@ -35,4 +35,3 @@ class Matakuliah extends CI_Controller{
  }
 }
 
-//tugas pertemuan 4

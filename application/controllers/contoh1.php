@@ -10,4 +10,4 @@ class Contoh1 extends CI_Controller
  Bola Baskettttt";
  }
 }
- 
+ // pertemuan 2
